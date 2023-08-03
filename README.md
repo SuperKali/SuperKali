@@ -10,7 +10,7 @@
 
 You can contact me through these platforms:
 
-- <img src="https://raw.githubusercontent.com/SuperKali/SuperKali/main/logo-discord.svg" width="24px" align="center">: [`SuperKali#8716`]
+- <img src="https://raw.githubusercontent.com/SuperKali/SuperKali/main/logo-discord.svg" width="24px" align="center">: [`SuperKali`]
 - <img src="https://raw.githubusercontent.com/SuperKali/SuperKali/main/logo-telegram.svg" width="20px" align="center"> : [`SuperKali`]
 - <img src="https://raw.githubusercontent.com/SuperKali/SuperKali/main/logo-gmail.svg" width="20px" align="center"> : [`hello@superkali.me`]
 
