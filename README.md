@@ -6,7 +6,7 @@
 
 📚 **Programming Languages**: PHP, Python, Bash, HTML, CSS, JS, C#.
 
-💻 **In my free time**: I do volunteering in the Armbian community, where I maintain two boards based on Rockchip: **Youyeetoo R1 v3** & **NanoPC T6 / LTS** & **NanoPi R76S**. 
+💻 **In my free time**: I do volunteering in the Armbian community, where I maintain two boards based on Rockchip: **Youyeetoo R1 v3** & **NanoPC T6 / LTS** & **NanoPi R76S** & **NanoPi M5**. 
 
 🎯 **Future Goals**: I am exploring embedded systems, aiming to expand my work on IoT devices and edge computing solutions.
 
