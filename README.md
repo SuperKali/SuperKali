@@ -8,6 +8,7 @@
 
 💻 **In my free time**: I do volunteering in the Armbian community, where I maintain boards based on Rockchip: 
 - **Youyeetoo R1 v3** (R3588S)
+- **Youyeetoo YY3588** (R3588)
 - **NanoPC T6 / LTS** (RK3588)
 - **NanoPi R76S** (RK3576)
 - **NanoPi M5** (RK3576)
@@ -24,6 +25,3 @@ You can contact me through these platforms:
 
 🏮 Join on my Discord community! - [https://discord.superkali.me](https://discord.superkali.me)
 
-#### 📍 Quick Statistics
-
-![SuperKali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperKali&show_icons=true&theme=radical)
