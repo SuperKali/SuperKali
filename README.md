@@ -7,8 +7,8 @@
 📚 **Programming Languages**: PHP, Python, Bash, HTML, CSS, JS, C#.
 
 💻 **In my free time**: I do volunteering in the Armbian community, where I maintain boards based on Rockchip: 
-- **Youyeetoo R1 v3** (R3588S)
-- **Youyeetoo YY3588** (R3588)
+- **Youyeetoo R1 v3** (RK3588S)
+- **Youyeetoo YY3588** (RK3588)
 - **NanoPC T6 / LTS** (RK3588)
 - **NanoPi R76S** (RK3576)
 - **NanoPi M5** (RK3576)
